@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shubham Goswami</h1>
+<p align="center">
+  <img src="IMG-20250310-WA0001.jpg" alt="banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Shubham Goswami</h1> 
 <h3 align="center">🚀 Full Stack Developer | GDSC Lead | Tech Enthusiast</h3>
 
 <p align="center"> 
