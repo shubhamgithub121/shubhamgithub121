@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG-20250310-WA0001.jpg" alt="banner" />
+  <img src="github banner 2.jpg" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Goswami</h1> 
