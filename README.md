@@ -1,4 +1,4 @@
-<p align="center">
+le - <p align="center">
   <img src="github banner 2.jpg" alt="banner" />
 </p>
 
@@ -7,14 +7,6 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shubhamgithub121&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgithub121" /> 
-</p>
-
----
-
-## 🏆 Profile Badges  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Badges/Month/Feb-Badge.png" width="130" />
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Badges/Month/Mar-Badge.png" width="130" />
 </p>
 
 ---
@@ -77,3 +69,6 @@
 <a href="https://www.youtube.com/c/shubham goswami [dtu]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shubham goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
+
+
+le
