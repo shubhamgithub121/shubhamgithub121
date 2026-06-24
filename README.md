@@ -16,7 +16,7 @@ AI/ML Enthusiast • Full Stack Developer • Open Source Contributor • GDSC P
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhamgithub121&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/shubhamgithub121?style=for-the-badge" />
+
   <img src="https://img.shields.io/github/stars/shubhamgithub121?style=for-the-badge" />
 </p>
 
@@ -33,7 +33,7 @@ AI/ML Enthusiast • Full Stack Developer • Open Source Contributor • GDSC P
 * 👯 Open to collaborate on **RedShield AI** & **SolarMate AI**
 * ⚡ Fun Fact: **Karate National Level Player 🥋 + Tech Explorer 🚀**
 * 💡 Passionate about building **AI-powered real-world solutions**
-* 📫 Reach me at: **[shubhamgoswami.dev@gmail.com](mailto:shubhamgoswami.dev@gmail.com)**
+* 📫 Reach me at: **[shubhamgoswami.dev@gmail.com](mailto:sgoswami6420@gmail.com)**
 
 ---
 
