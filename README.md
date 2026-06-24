@@ -1,74 +1,149 @@
-le - <p align="center">
+# <p align="center">🚀 Shubham Goswami</p>
+
+<p align="center">
   <img src="github banner 2.jpg" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubham Goswami</h1> 
-<h3 align="center">🚀 Full Stack Developer | GDSC President | Tech Enthusiast</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shubhamgithub121&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgithub121" /> 
-</p>
-
----
-
-### 👨‍💻 About Me  
-- 🔭 Currently working on **[Prithvi App](https://shubhamgithub121.github.io/GDSC/index.html)**  
-- 🌱 Learning **Node.js, TypeScript & PHP**  
-- 👯 Open to collaborate on **[Tomato App](https://tomato-app2.vercel.app/)**  
-- 💼 All my projects are here: [Portfolio](https://gleaming-entremet-efc57f.netlify.app/)  
-- 💬 Ask me about **React.js, Next.js, APIs, CSS, Full Stack Development**  
-- 📄 My Resume: [View Here](https://drive.google.com/file/d/1rJhsV_yKuivZAifbHJ_GT-psAHb3XlvS/view?usp=sharing)  
-- ⚡ Fun fact: **I am a Karate Black Belt 🥋**  
-
----
-
-### 🛠️ Tech Stack  
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
-
----
-
-### 🚀 Featured Projects  
-- 🛒 [Amazon Clone](https://github.com/shubhamgithub121/amazon-clone) – React + Firebase + Authentication + Cart  
-- 🎮 [Stone Paper Scissors Game](https://github.com/shubhamgithub121/stone-paper-scissors) – Fun JS Game  
-- 📰 [Fake News Detection](https://github.com/shubhamgithub121/fake-news-detection) – ML Project  
-- 🧑‍🤝‍🧑 [Women Safety & Health Assistant](https://github.com/shubhamgithub121/women-safety-app) – Hackathon Project  
-- 💻 [Portfolio Website](https://gleaming-entremet-efc57f.netlify.app/) – Personal Portfolio  
-
----
-
-### 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamgithub121&show_icons=true&locale=en&layout=compact" alt="shubhamgithub121" /></p>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamgithub121&show_icons=true&locale=en" alt="shubhamgithub121" /></p>  
+<h1 align="center">Hi 👋, I'm Shubham Goswami</h1>
+<h3 align="center">AI/ML Enthusiast • Full Stack Developer • Open Source Contributor • GDSC President</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamgithub121&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://komarev.com/ghpvc/?username=shubhamgithub121&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🤝 Connect With Me  
+## 🚀 About Me
+
+* 🔭 Currently working on **Nirvaya AI** – AI-powered Women Safety & Assistance Platform
+* 🤖 Exploring **Artificial Intelligence, Machine Learning & NLP**
+* 🌱 Skilled in **React.js, Next.js, Node.js, MongoDB, Express.js & Full Stack Development**
+* 🧠 Currently learning **Advanced ML Models, Deep Learning & AI Integrations**
+* 👯 Open to collaborate on **RedShield AI** & **SolarMate AI**
+* 💼 Portfolio: https://gleaming-entremet-efc57f.netlify.app/
+* 📄 Resume: https://drive.google.com/file/d/1rJhsV_yKuivZAifbHJ_GT-psAHb3XlvS/view
+* ⚡ Fun Fact: **Karate Black Belt 🥋 + Tech Explorer 🚀**
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Languages
+
 <p align="left">
-<a href="https://www.linkedin.com/in/shubham-goswami-44761725a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/shubham champ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/shubhamm.123_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shubham goswami [dtu]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubham goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 </p>
 
+---
 
-le
+## ⚛️ Frontend Development
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 🖥️ Backend & Database
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="45" height="45"/>
+</p>
+
+* Machine Learning
+* NLP
+* AI Integrations
+* Fake News Detection
+* Predictive Models
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 RedShield AI - Retrival Compliance Model
+
+AI-powered security & monitoring platform with smart threat detection features.
+
+### ☀️ SolarMate AI - AI-powered solar energy optimization platform 
+
+Smart renewable energy management system using AI-based insights.
+
+### 🛡️ Nirbhaya - Women safety platform
+
+Women safety assistant with emergency support, AI chatbot & smart alerts.
+
+### 📰 Fake News Detection
+
+Machine Learning project to classify and detect fake news articles.
+
+### 🌍 Prithvi App
+
+Community-driven sustainability & environmental awareness platform.
+
+
+
+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamgithub121&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgithub121&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhamgithub121&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shubham-goswami-44761725a/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://instagram.com/shubhamm.123_" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.youtube.com/c/shubhamgoswami" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+</a>
+
+<a href="https://leetcode.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ Building AI-powered solutions & impactful tech for the future 🚀
+</p>
