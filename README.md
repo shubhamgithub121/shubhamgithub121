@@ -21,8 +21,7 @@
 * 🧠 Currently learning **Advanced ML Models, Deep Learning & AI Integrations**
 * 👯 Open to collaborate on **RedShield AI** & **SolarMate AI**
 * 💼 Portfolio: https://gleaming-entremet-efc57f.netlify.app/
-* 📄 Resume: https://drive.google.com/file/d/1rJhsV_yKuivZAifbHJ_GT-psAHb3XlvS/view
-* ⚡ Fun Fact: **Karate Black Belt 🥋 + Tech Explorer 🚀**
+* ⚡ Fun Fact: **Karate National level player 🥋 + Techie **
 
 ---
 
