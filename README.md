@@ -33,7 +33,7 @@ AI/ML Enthusiast • Full Stack Developer • Open Source Contributor • GDSC P
 * 👯 Open to collaborate on **RedShield AI** & **SolarMate AI**
 * ⚡ Fun Fact: **Karate National Level Player 🥋 + Tech Explorer 🚀**
 * 💡 Passionate about building **AI-powered real-world solutions**
-* 📫 Reach me at: **[shubhamgoswami.dev@gmail.com](mailto:sgoswami6420@gmail.com)**
+* 📫 Reach me at: **[sgoswami6420@gmail.com](mailto:sgoswami6420@gmail.com)**
 
 ---
 
